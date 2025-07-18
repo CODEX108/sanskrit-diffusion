@@ -3,8 +3,8 @@
 ## Overview
 In this project, we explored the generation of symbols using diffusion models, inspired
 by prior work on generating Chinese characters shown by our professor at Vizuara Labs. We selected Sanskrit as the target
-language, constructed a dataset of PNG images representing its characters—including
-vowels , consonants , and their barakhadi combinations—and trained a diffusion model
+language, constructed a dataset of PNG images representing its charactersincluding
+vowels , consonants , and their barakhadi combinationsand trained a diffusion model
 to generate new Sanskrit symbols. This report details the methodology, experiments, and
 findings.
 
@@ -17,7 +17,7 @@ I selected Sanskrit due to:
 • Potential application in linguistic preservation and digital script generation
 
 ## Dataset Preparation
-• Total characters: 487 — including standalone vowels, consonants, and their com-
+• Total characters: 487  including standalone vowels, consonants, and their com-
 binations.
 • Image resolution: 128x128 pixels (RGB).
 • Format: PNG.
